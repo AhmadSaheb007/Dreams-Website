@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,600;0,700;1,200&display=swap');
+
+*{
+    
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+header{
+    background: url(../img/06-Dreams_banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50rem;
+    margin-bottom: 5rem;
+
+}
+
+.banner-title{
+    margin-top: 15rem;
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.hero-txt{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.expertise{
+    background-color: #F7F7F7;
+    overflow: hidden;
+}
+
+.expertise-title{
+
+    font-size: 2em;
+    font-weight: 800;
+    
+    
+
+}
+
+.expertise-subtitle{
+
+}
+
+.btn-shape{
+    border-radius: 5rem;
+}
+
+.amz-port{
+    overflow: hidden;
+    position: relative;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.user-icon{
+    position: absolute;
+    z-index: -1;
+    padding: 5% 5%;
+    
+}
+
+.img-padding{
+    padding: 0 0;
+}
+
+.about{
+    padding: 5rem 0;
+}
+
+.about-circle{
+    width: 25%;
+    padding: 2rem;
+    border-radius: 50%;
+}
+
+.team{
+    background-color: #F7F7F7;
+    padding: 5rem;
+
+}
+
+
+.contact{
+
+    background-color: #111111;
+    padding: 5rem;
+
+}
+
+.message{
+    padding-bottom: 10rem;
+}
